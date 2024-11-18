@@ -1,0 +1,66 @@
+[
+    {
+      "_id": "6729d1b7fe1873222d507494",
+      "name": "Tour Đà Lạt",
+      "description": "Khám phá vẻ đẹp của Đà Lạt.",
+      "price": 1500000,
+      "__v": 0,
+      "createdAt": "2024-11-05T08:05:11.659Z",
+      "updatedAt": "2024-11-05T08:05:11.659Z"
+    },
+    {
+      "_id": "6729d1b7fe1873222d507495",
+      "name": "Tour Nha Trang",
+      "description": "Trải nghiệm bãi biển Nha Trang.",
+      "price": 2000000,
+      "__v": 0,
+      "createdAt": "2024-11-05T08:05:11.661Z",
+      "updatedAt": "2024-11-05T08:05:11.661Z"
+    },
+    {
+      "_id": "6729d1b7fe1873222d507496",
+      "name": "Tour Phú Quốc",
+      "description": "Tham quan hòn đảo thiên đường Phú Quốc.",
+      "price": 2500000,
+      "__v": 0,
+      "createdAt": "2024-11-05T08:05:11.661Z",
+      "updatedAt": "2024-11-05T08:05:11.661Z"
+    },
+    {
+      "_id": "6729d1b7fe1873222d507497",
+      "name": "Tour Hà Nội",
+      "description": "Khám phá văn hóa và lịch sử của Hà Nội.",
+      "price": 1800000,
+      "__v": 0,
+      "createdAt": "2024-11-05T08:05:11.661Z",
+      "updatedAt": "2024-11-05T08:05:11.661Z"
+    },
+    {
+      "_id": "6729d1b7fe1873222d507498",
+      "name": "Tour Sapa",
+      "description": "Trải nghiệm những cảnh đẹp của Sapa.",
+      "price": 2200000,
+      "__v": 0,
+      "createdAt": "2024-11-05T08:05:11.661Z",
+      "updatedAt": "2024-11-05T08:05:11.661Z"
+    },
+    {
+      "_id": "6729d1b7fe1873222d507499",
+      "name": "Tour Hội An",
+      "description": "Khám phá phố cổ Hội An.",
+      "price": 2000000,
+      "__v": 0,
+      "createdAt": "2024-11-05T08:05:11.661Z",
+      "updatedAt": "2024-11-05T08:05:11.661Z"
+    },
+    {
+      "_id": "6729d1b7fe1873222d507500",
+      "name": "Tour Đà Nẵng",
+      "description": "Khám phá thành phố Đà Nẵng và các điểm du lịch xung quanh.",
+      "price": 2100000,
+      "__v": 0,
+      "createdAt": "2024-11-05T08:05:11.661Z",
+      "updatedAt": "2024-11-05T08:05:11.661Z"
+    }
+  ]
+  
